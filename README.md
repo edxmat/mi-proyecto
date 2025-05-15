@@ -20,4 +20,4 @@ Breve descripción del proyecto.
 Aquí puedes incluir capturas de pantalla o enlaces al sitio.
 
 ## Créditos
-Autor: Tu nombre
+Autor: Hojita, edxmat
